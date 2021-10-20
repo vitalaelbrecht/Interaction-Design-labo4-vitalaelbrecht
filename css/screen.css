@@ -382,6 +382,11 @@ input::placeholder {
   --color-front: var(--color-light);
   --color-back: var(--color-dark);
 }
+
+.is-day {
+    --color-front: var(--color-dark);
+    --color-back: var(--color-light);
+  }
 /*------------------------------------*\
 #MEDIA
 \*------------------------------------*/
